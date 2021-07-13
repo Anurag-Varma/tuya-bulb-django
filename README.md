@@ -16,7 +16,8 @@ pip install colormap
 ```
 <br>
 
-[![Watch the video]()](https://github.com/Anurag-Varma/tuya-bulb-django/blob/main/tuya%20bilb%20django.mp4)
+[![Watch the video]()](https://user-images.githubusercontent.com/66156396/124347513-c8181980-dc02-11eb-9398-861cfad77c10.mp4)
+
 
 
 <br>
