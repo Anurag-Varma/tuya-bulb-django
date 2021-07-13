@@ -1,7 +1,7 @@
 # tuya-cloud-bulb-user-interface
-This project is developed using Tuya SDK, which enables you to quickly develop smart devices, branded APP, cloud development project, etc.
 
-For more information, please check Tuya Developer Click and Connect Challenge https://pages.tuya.com/develop/ClickAndConnect_TuyaDeveloper?_source=e9684c7ca6b31e7221c8420f5af94631
+This is a continuation to my previous project, along with new user interface with django framework, previous project: https://github.com/Anurag-Varma/tuya-cloud-smart-bulb
+
 <br>
 <h3>Installing:</h3>
 
@@ -16,7 +16,7 @@ pip install colormap
 ```
 <br>
 
-[![Watch the video]()](https://user-images.githubusercontent.com/66156396/124347513-c8181980-dc02-11eb-9398-861cfad77c10.mp4)
+[![Watch the video]()](https://github.com/Anurag-Varma/tuya-bulb-django/blob/main/tuya%20bilb%20django.mp4)
 
 
 <br>
